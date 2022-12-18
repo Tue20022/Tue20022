@@ -1,4 +1,4 @@
-## Olá, eu sou o Matheus Nunes!
+## Olá, eu sou Matheus Nunes!
 
 <div align="center">
   <a href="https://github.com/Tue20022">
