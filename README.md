@@ -10,10 +10,13 @@
   
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="PHP" height="50" width="60" src="https://devicon-website.vercel.app/api/php/original.svg"> 
+  <img align="center" alt="Laravel" height="50" width="60" src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg"> 
+  <img align="center" alt="Bootstrap" height="50" width="60" src="https://devicon-website.vercel.app/api/bootstrap/original-wordmark.svg">
+  <img align="center" alt="MySQL" height="50" width="60" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg">
   <img align="center" alt="C++"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
-  <img align="center" alt="Hibernate"  src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
-  
+  <img align="center" alt="Hibernate" height="50" width="60" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
 </div>
 
 ##
