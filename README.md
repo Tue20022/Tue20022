@@ -14,7 +14,6 @@
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Hibernate"  src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
   
-  <img align="right" height="200" width="200" alt="Killua-gif" src="https://i.imgur.com/K5P22VM.gif">
 </div>
 
 ##
