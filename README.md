@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus Nunes 👋
 
-Desenvolvedor Back-End focado em **PHP/Laravel** e **Java**, com experiência em bancos de dados relacionais e boas práticas de arquitetura de software.
+Desenvolvedor Fullstack focado em **PHP/Laravel** e **Java**, com experiência em bancos de dados relacionais e boas práticas de arquitetura de software.
 
 - 💻 Construo aplicações web robustas e eficientes
 - 📚 Experiência também com **Python** e **C++**
