@@ -3,14 +3,14 @@
 Desenvolvedor Back-End focado em **PHP/Laravel** e **Java**, com experiência em bancos de dados relacionais e boas práticas de arquitetura de software.
 
 - 💻 Construo aplicações web robustas e eficientes
-- 📚 Experiência também com **Hibernate** e **C++**
+- 📚 Experiência também com **Python** e **C++**
 - 🌱 Sempre aprendendo novas tecnologias
 - 📫 Aberto a oportunidades e colaborações — entre em contato!
 
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,mysql,java,cpp,hibernate" alt="Tecnologias: PHP, Laravel, Bootstrap, MySQL, Java, C++, Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,mysql,java,cpp,hibernate,python" alt="Tecnologias: PHP, Laravel, Bootstrap, MySQL, Java, C++, Hibernate, Python"/>
 </div>
 
 ## 📊 Estatísticas do GitHub
@@ -21,7 +21,7 @@ Desenvolvedor Back-End focado em **PHP/Laravel** e **Java**, com experiência em
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tue20022&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img width="660" src="https://streak-stats.demolab.com/?user=Tue20022&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 ## 🤝 Conecte-se comigo
